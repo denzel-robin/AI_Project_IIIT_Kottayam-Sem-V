@@ -143,6 +143,7 @@ The problem is to design an AI model that can accurately forecast traffic flow a
 | **MAPE**    | 18.36%  |
 | **MSE**     | 1172.15 |
 | **VAR**     | 0.949   |
+
 The model demonstrates high spatial-temporal accuracy and strong generalization across nodes.
 
 ## **Discussion and Analysis**
