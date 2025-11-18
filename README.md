@@ -1,8 +1,6 @@
 # **STG-Mamba: Spatio-Temporal Traffic Flow Forecasting**
 
 **Course Code: CSE 311 – Artificial Intelligence**
-**Student Name: DENZEL ROBIN**
-**Register Number: 2023BCS0189**
 
 ## **Abstract**
 
