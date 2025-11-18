@@ -24,7 +24,7 @@ The **STG-Mamba** architecture addresses these issues by combining:
 
 This project focuses on building, training, and evaluating the STG-Mamba model for short-term traffic flow forecasting.
 
-## ** Problem Statement and Objectives**
+## **Problem Statement and Objectives**
 
 ## **Problem Statement**
 
